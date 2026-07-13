@@ -1,5 +1,6 @@
 add_executable(Sandbox
-    main.cpp
+    main.mm
+    Renderer.cpp
 )
 
 target_link_libraries(Sandbox
@@ -8,4 +9,5 @@ PRIVATE
     "-framework Cocoa"
     "-framework QuartzCore"
     "-framework Metal"
+    "-framework MetalKit"
 )
