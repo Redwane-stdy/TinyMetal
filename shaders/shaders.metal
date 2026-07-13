@@ -3,8 +3,8 @@
 using namespace metal;
 
 struct VertexIn{
-    float2 position;
-    float4 color;
+    packed_float2 position;
+    packed_float4 color;
 };
 
 struct VertexOut{
