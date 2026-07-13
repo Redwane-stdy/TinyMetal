@@ -3,14 +3,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/stargazers">
-    <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME?style=for-the-badge&logo=github&color=ffaa00&logoColor=white" alt="Github Stars">
+  <a href="https://github.com/Redwane-stdy/TinyMetal/stargazers">
+    <img src="https://img.shields.io/github/stars/Redwane-stdy/TinyMetal?style=for-the-badge&logo=github&color=ffaa00&logoColor=white" alt="Github Stars">
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_NAME&style=for-the-badge&color=007acc&label=VIEWS" alt="Views">
+  <a href="https://github.com/Redwane-stdy/TinyMetal">
+    <img src="https://komarev.com/ghpvc/?username=Redwane-stdy&repo=TinyMetal&style=for-the-badge&color=007acc&label=VIEWS" alt="Views">
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/network/members">
-    <img src="https://img.shields.io/github/forks/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME?style=for-the-badge&logo=github&color=888888" alt="Forks">
+  <a href="https://github.com/Redwane-stdy/TinyMetal/network/members">
+    <img src="https://img.shields.io/github/forks/Redwane-stdy/TinyMetal?style=for-the-badge&logo=github&color=888888" alt="Forks">
   </a>
 </p>
 
